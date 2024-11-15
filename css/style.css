@@ -1,0 +1,44 @@
+
+header, main {
+    margin: 32px;
+}
+.main-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-article{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main-logo{
+    
+}
+
+nav {
+    display: flex;
+}
+
+.navbar{
+    color: black;
+    text-decoration: none;
+    border: 1px solid;
+    padding: 10px;
+}
+
+.main-article-header{
+    text-align: center;
+}
+
+.our-pacakge-header{
+    text-align: center;
+}
+
+.our-pacakge-content{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
